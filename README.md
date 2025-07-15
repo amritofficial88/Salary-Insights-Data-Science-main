@@ -3,7 +3,7 @@
 
 ![DataScience_JobSalary_Insights](https://github.com/user-attachments/assets/f2ca5644-9f14-4c8d-9895-3293d0a6ad3e)
 
-This project uses Tableau to visualize salaries for data science jobs, providing insights into the current market trends
+This project uses Tableau to visualize salaries for data science jobs, providing insights into the current market trends.
 
 ## Data Science JobSalary Insights
 
