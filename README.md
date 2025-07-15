@@ -11,9 +11,9 @@ This interactive Tableau dashboard provides a comprehensive overview of data sci
 
  ## Key Features:
 
-- Interactive Dashboard: Explore data science salaries by location, industry, experience level, and job title.
-- Salary Distribution: Visualize the distribution of salaries for different data science roles.
-- Location-Based Insights: Compare salaries across different cities and countries.
+- **Interactive Dashboard:** Explore data science salaries by location, industry, experience level, and job title.
+- **Salary Distribution:** Visualize the distribution of salaries for different data science roles.
+- **Location-Based Insights:** Compare salaries across different cities and countries.
 
 
 ## Data Source:
