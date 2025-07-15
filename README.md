@@ -1,5 +1,5 @@
 
-# Tableau Projects ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
+# Salary Insights Data Science - Tableau ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
 
 ![DataScience_JobSalary_Insights](https://github.com/user-attachments/assets/f2ca5644-9f14-4c8d-9895-3293d0a6ad3e)
 
